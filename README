@@ -1,0 +1,12 @@
+Name: Simple Force.com App for iPad with Forward Geocoding and OAuth Support
+Author: qwall@salesforce.com
+
+What is this stuff:
+This project contains a simple skeleton structure for a splitview
+ipad app which uses OAuth2 and the Force.com toolkit for iOS to connect
+to Force.com. 
+
+It is primarily the same as the sample project which comes
+with the toolkit save for the addition of mapping and forward geocoding to 
+convert account addresses to co-ordinates and plot them on a mapview
+
